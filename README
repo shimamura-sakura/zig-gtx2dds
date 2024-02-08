@@ -1,0 +1,17 @@
+zig-gtx2dds
+-----------
+
+convert between Gust GTX (.gtx) and DDS (.dds)
+
+now it only supports UBC1 (DXT1) and UBC3 (DXT5)
+
+build
+-----
+./build.sh
+
+usage
+-----
+./main <input file> <output file>
+
+input GTX output DDS
+input DDS output GTX
