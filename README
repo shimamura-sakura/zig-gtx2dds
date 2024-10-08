@@ -27,3 +27,7 @@ gtx file format
 ---------------
 please read 'main.zig' and 'gtx_test.zig'.
 gtx_test.zig checks a gtx file against my understandings of the gtx format, compile it with debug on to see code trace (where your file wents wrong, if you are also generating gtx files).
+
+others
+------
+thank you @nebulas-star for helping me with this file format
